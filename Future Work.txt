@@ -1,0 +1,10 @@
+# Future Work
+
+The main problem of our robot was identified to be the insensitivity of the IR sensors. This error can be reduced by replace the IR sensors with brand new ones to avoid the faulty functionality so that the sensors are more reliable. Another limitation in the robot happened to be the inaccuracy of the tracking process. This limitation occurred dur to the limited number of IR sensors. To increase the accuracy, more IR sensors can be added to the robot. For example, two IR sensors can be added in the middle of the robot to ensure that they detect black line. This improvement will also prevent the robot from going off track while turning.
+
+Another problem that had impact on the task was that the unbalanced servos of the robot which caused the robot to constantly shifted to the left while it should be running straight. The source of this error was likely to be the friction between wheels in the servo. An improvement that can eliminate this error is to change the servo of the robot to two new identical servos. Another improvement can be changing the value of the speed of the servos and find the balance which can keep the robot runs in a straight line. 
+
+In this project, our robot picked up the ball by using tape. This design was not reliable as the ball may fall from the tape due to the friction with the table. To improve the reliability of picking up the object, a servo can be used to connect a net in the front of the robot. When the robot reaches the destination, the servo will rotate and put down the net to drag the ball back to the starting point. An OpenMV component can be used to help identify the location of the object hence further increase accuracy.
+
+# Conclusion
+
